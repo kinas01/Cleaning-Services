@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood ;
+    padding-top: 100px;
+}
+
+.image-size1 {
+  width: 400px;
+  width: 600px;
+  object-fit: cover;
+}
+
+  /*.carousel-img-small {
+    height: 50px;
+    object-fit: cover;
+  }*/
+.button {
+  background-color: palegoldenrod;
+  border: 2rem;
+  padding: 0.5rem;
+  border-radius: 10px;
+ 
+}
+ .button:hover {
+    background-color: rgb(79, 42, 165);
+    transform: scale(1.05);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  }
+
+  .image-size{
+    width: 700px;
+    height: 400px;
+    object-fit: cover;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
