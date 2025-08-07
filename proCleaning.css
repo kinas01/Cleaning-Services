@@ -1,6 +1,21 @@
 body {
-    background-color: burlywood ;
+    background-color: white ;
     padding-top: 100px;
+}
+
+.top-navbar {
+  background-color: blue;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.top-navbar a {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .image-size1 {
@@ -9,10 +24,6 @@ body {
   object-fit: cover;
 }
 
-  /*.carousel-img-small {
-    height: 50px;
-    object-fit: cover;
-  }*/
 .button {
   background-color: palegoldenrod;
   border: 2rem;
