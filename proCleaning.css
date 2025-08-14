@@ -13,9 +13,11 @@ body {
 
 .top-navbar a {
   color: white;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  
+  
 }
 
 .image-size1 {
@@ -44,3 +46,4 @@ body {
     padding-top: 50px;
     padding-bottom: 50px;
   }
+
